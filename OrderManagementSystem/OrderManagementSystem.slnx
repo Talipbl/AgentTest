@@ -1,0 +1,17 @@
+<Solution>
+	<Project Path="src/OrderManagementSystem.Web/OrderManagementSystem.Web.csproj" />
+	<Project Path="src/OrderManagementSystem.Core/OrderManagementSystem.Core.csproj" />
+	<Project Path="src/OrderManagementSystem.Infrastructure/OrderManagementSystem.Infrastructure.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Catalog/OrderManagementSystem.Modules.Catalog.Core/OrderManagementSystem.Modules.Catalog.Core.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Catalog/OrderManagementSystem.Modules.Catalog.Infrastructure/OrderManagementSystem.Modules.Catalog.Infrastructure.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Catalog/OrderManagementSystem.Modules.Catalog.Api/OrderManagementSystem.Modules.Catalog.Api.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Orders/OrderManagementSystem.Modules.Orders.Core/OrderManagementSystem.Modules.Orders.Core.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Orders/OrderManagementSystem.Modules.Orders.Infrastructure/OrderManagementSystem.Modules.Orders.Infrastructure.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Orders/OrderManagementSystem.Modules.Orders.Api/OrderManagementSystem.Modules.Orders.Api.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Inventory/OrderManagementSystem.Modules.Inventory.Core/OrderManagementSystem.Modules.Inventory.Core.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Inventory/OrderManagementSystem.Modules.Inventory.Infrastructure/OrderManagementSystem.Modules.Inventory.Infrastructure.csproj" />
+	<Project Path="src/OrderManagementSystem.Modules/Inventory/OrderManagementSystem.Modules.Inventory.Api/OrderManagementSystem.Modules.Inventory.Api.csproj" />
+	<Project Path="tests/OrderManagementSystem.Modules.Orders.Tests/OrderManagementSystem.Modules.Orders.Tests.csproj" />
+	<Project Path="tests/OrderManagementSystem.Modules.Inventory.Tests/OrderManagementSystem.Modules.Inventory.Tests.csproj" />
+	<Project Path="tests/OrderManagementSystem.IntegrationTests/OrderManagementSystem.IntegrationTests.csproj" />
+</Solution>

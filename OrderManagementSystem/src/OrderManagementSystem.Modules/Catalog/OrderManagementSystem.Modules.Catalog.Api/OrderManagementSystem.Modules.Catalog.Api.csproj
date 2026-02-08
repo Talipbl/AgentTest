@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../../OrderManagementSystem.Core/OrderManagementSystem.Core.csproj" />
+    <ProjectReference Include="../OrderManagementSystem.Modules.Catalog.Core/OrderManagementSystem.Modules.Catalog.Core.csproj" />
+    <ProjectReference Include="../OrderManagementSystem.Modules.Catalog.Infrastructure/OrderManagementSystem.Modules.Catalog.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
